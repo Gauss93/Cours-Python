@@ -1,5 +1,5 @@
 cookies = 0
-objectif = 10000
+objectif = 200
 prix_mamie = 3
 liste_mamie = ["Gertrude", "Jeanette", "Yvonne", "Otilia", "Marie-antoinette", "Elisabeth"]
 mamie_en_service = []
